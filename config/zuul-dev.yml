@@ -5,11 +5,7 @@ spring:
     config:
       override-none: true
       
-    inetutils:
-      ignored-interfaces:
-        - VM.*
-      preferred-networks:
-        - 176.192.105.1
+    
 
 
 
